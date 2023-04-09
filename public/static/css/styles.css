@@ -1,0 +1,19 @@
+#nprogress.bar{
+    height: 5px !important;
+    background-color: brown !important;
+}
+
+.a.hover{
+    border-radius: 1px;
+    margin-bottom: 10px;
+}
+
+.nav-B {
+    color: rgb(14, 13, 13);
+    padding-right: 10px;
+}
+
+.nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
