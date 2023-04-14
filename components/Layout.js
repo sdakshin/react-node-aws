@@ -49,7 +49,7 @@ const Layout = (props) => {
             </li>  
             <li className="nav-item">
                 <Link className = "nav-B" href="/register">
-                    Register
+                    Registration
                 </Link>                
             </li>                       
                     
